@@ -9,7 +9,7 @@ Jangan lupa untuk mengikuti github ku
 * My Facebook [`Click Here`](https://facebook.com/ainneboot)
 
 ## Heroku Buildpack
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aiinne/Aine-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HanifRecode/Aine-MD)
 
 | BuildPack | LINK |
 |--------|--------|
